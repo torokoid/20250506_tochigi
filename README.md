@@ -157,9 +157,11 @@ p.note { display: none; }
 <h2><span class="yellow">景色も最高で１時間以上聴いちゃいましたね〜</span></h2>
 <a href="20250506_006.JPG" target="_blank"><img src="20250506_006.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">エンジンかけてなかったので、BattあがりでJAFさんのお世話に・・・</span></h2>
+<h2><span class="yellow">エンジンかけてなかったので、BattあがりでJAFさんのお世話に・・・<br>連絡した時は20分でつきますと言われましたが、10分で来てくれました</span></h2>
 <a href="20250506_007.JPG" target="_blank"><img src="20250506_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250506_008.JPG" target="_blank"><img src="20250506_008.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">Noが１番違いの救護車です</span></h2>
 <a href="20250506_009.JPG" target="_blank"><img src="20250506_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250506_010.JPG" target="_blank"><img src="20250506_010.JPG" alt="サンプル画像" width="900" /></a>
     
